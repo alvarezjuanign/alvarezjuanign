@@ -1,4 +1,4 @@
-<h2> I'm Alvarez Juan Ignacio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> I'm Alvarez Juan Ignacio</h2>
 <p><em>Computer Science undergraduate student</em></p>
 
 <div align="left">
@@ -9,7 +9,7 @@
 
 </div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=saravananselvamohan&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=alvarezjuanign&show_icons=true)
 
 **Languages and Tools:** 
 <p align="left">
